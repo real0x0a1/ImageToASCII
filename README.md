@@ -43,7 +43,7 @@ go run main.go example.png
 
 Output:
 
-<img src="assets/output.png" alt="simple output"></a>
+<img src="assets/output.png"></a>
 ...
 
 ## Author
